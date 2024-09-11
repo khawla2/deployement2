@@ -6,4 +6,3 @@ sklearn
 seaborn
 numpy
 matplotlib
-hd
